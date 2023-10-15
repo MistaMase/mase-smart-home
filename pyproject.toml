@@ -1,0 +1,7 @@
+[project]
+name = 'mase-smart-home'
+version = '0.1'
+dependencies = [
+    'fastapi==0.103.2',
+    'uvicorn==0.23.2',
+]
